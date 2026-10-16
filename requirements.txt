@@ -1,0 +1,6 @@
+numpy==1.26.4
+pandas
+scipy
+matplotlib
+geoplotlib==0.3.2
+pyglet==1.5.27
